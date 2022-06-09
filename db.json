@@ -1,8 +1,7 @@
 {
   "mostviewedweekly": [
     {
-      "socials":[
-        {
+
         "id": "youtube",
         "uid": "https://www.youtube.com/watch?v=pwumCTb9RiI"
         },
@@ -14,7 +13,6 @@
         "id": "tiktok",
         "uid": " https://www.tiktok.com/@ryan_cavazza/video/7106956303561395461?is_from_webapp=1&sender_device=pc&web_id=7094363101088794118"
         }
-      ]
-    }
+
   ]
 }
