@@ -1,7 +1,7 @@
 {
-  "mostviewedweekly": [
+  "api": [
     {
-      "socials":[
+      "mostviewedweekly":[
         {
         "id": "youtube",
         "uid": "https://www.youtube.com/watch?v=pwumCTb9RiI"
