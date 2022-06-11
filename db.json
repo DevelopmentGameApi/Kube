@@ -16,5 +16,33 @@
         }
       ]
     }
+  ],
+  "dailychallenge": [
+    {
+      "challenge_1": "Pass the ball to a temmate 30 times",
+      "challenge_param":"3"
+    },
+    {
+      "challenge_2": "Shoot the ball 40 times",
+      "challenge_param":"40"
+    },
+    {
+      "challenge_3": "Steal the ball to an opponent 100 times",
+      "challenge_param":"100"
+    }
+  ],
+  "weeklychallenge": [
+    {
+      "challenge_1": "Handle the ball for a total time of 600 seconds",
+      "challenge_param":"600"
+    },
+    {
+      "challenge_2": "Pass the ball to a temmate 300 times",
+      "challenge_param":"300"
+    },
+    {
+      "challenge_3": "Use the wolf ability for 30 times",
+      "challenge_param":"30"
+    }
   ]
 }
